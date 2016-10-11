@@ -1,0 +1,46 @@
+body {
+  padding: 0px 1px 1px 0px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.navbar{
+  box-shadow: 0px 5px 5px #888888;
+}
+.donutRow{
+  margin: 1% 0% 2% 0%;
+  padding: 20px;
+  height: 250px;
+  top: -1px;
+  left: -1px;
+  font-size: 12px;
+  font-weight: bold;
+  background-color: whiteSmoke;
+  border: 3px solid #DDD;
+  color: #6e7277;
+  -webkit-border-radius: 4px 0 4px 0;
+  -moz-border-radius: 4px 0 4px 0;
+  border-radius: 4px 0 4px 0;
+  box-shadow: 5px 5px 5px #888888;
+}
+.donutShop{
+  height: 250px;
+}
+.shopRow{
+  margin: 1% 0% 2% 0%;
+  padding: 20px;
+  height: 100%;
+  top: -1px;
+  left: -1px;
+  font-size: 12px;
+  font-weight: bold;
+  background-color: whiteSmoke;
+  border: 3px solid #DDD;
+  color: #6e7277;
+  -webkit-border-radius: 4px 0 4px 0;
+  -moz-border-radius: 4px 0 4px 0;
+  border-radius: 4px 0 4px 0;
+  box-shadow: 5px 5px 5px #888888;
+}
